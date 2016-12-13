@@ -37,7 +37,8 @@ section .text
 
 ; LER VETOR A ---------------------------------------------------------------------
 
-
+
+
 main: 
 
 
@@ -195,7 +196,7 @@ loop for_leitura_C
 ; Imprimir Vetor Resultante--------------------------------------------------------
 
 mov eax, 0
-mov ecx, 0
+mov ecx, 10
 
 write_A: 
 
